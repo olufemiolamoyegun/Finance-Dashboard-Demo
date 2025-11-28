@@ -1,0 +1,6 @@
+TransactionID,Date,Account,Category,Description,Amount
+T001,03/01/2025,4001,Revenue,Product Sales,450000
+T002,03/01/2025,5001,Expense,Cloud Hosting,-85000
+T003,04/01/2025,4001,Revenue,Product Sales,380000
+T004,04/01/2025,5002,Expense,Marketing Campaign,-120000
+T005,05/01/2025,4002,Revenue,Consulting Services,250000
